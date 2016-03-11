@@ -18,7 +18,7 @@ My semi-serious blog: [http://csharpsadness.com](http://csharpsadness.com)
 ["Real" OOP](https://github.com/lemmit/RealOOP) [C#]  
 [Messages instead of IoC](https://github.com/lemmit/MessageBasedDependencies) [C#]
 ####Recruitment Assigments:
-[Synacor Challenge solution](https://github.com/lemmit/SynacorVirtualMachine) [C#]
+[Synacor Challenge solution](https://github.com/lemmit/SynacorVirtualMachine) [C#]  
 [Pluralsight Interview Problem](https://github.com/lemmit/PluralsightInterviewProblems) [C#]
 ####Academics Projects:
 [Amino acids, DNA and RNA sequences processing using .NET Bio and Modern UI](https://github.com/lemmit/BioinformaticsKKR) [C#, ModernUI, .Net Bio]  
