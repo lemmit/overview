@@ -23,3 +23,16 @@ My semi-serious blog: [http://csharpsadness.com](http://csharpsadness.com)
 ####Academics Projects:
 [Amino acids, DNA and RNA sequences processing using .NET Bio and Modern UI](https://github.com/lemmit/BioinformaticsKKR) [C#, ModernUI, .Net Bio]  
 [Implementation of Polyphase sorting, pretty nice Asteroid clone, and snake clone](https://github.com/lemmit/DugOff) [C++]  
+  
+## Gists:
+[Serialize to JSON, and deserialize to strongly typed object using only its name](https://gist.github.com/lemmit/f0d8671bb970d1ae1040) [C#, Newtonsoft]  
+[SignalR hub convention test (no two methods in hub with same number of params)](https://gist.github.com/lemmit/1af0289a30021e31da92)  
+[Double dispatch in C#](https://gist.github.com/lemmit/0dacecbff5d5de838456)  
+[Verbose dictionary (tells key name on exception)](https://gist.github.com/lemmit/61a14f00fc61c73e0e30)  
+[Defaultable dictionary (returns default value if not found) ](https://gist.github.com/lemmit/dce49222a2d042b81d53)  
+[Proper comparation of two doubles](https://gist.github.com/lemmit/0b781309f7bf53ca8973)  
+####Research & fun:
+[Extension fields](https://gist.github.com/lemmit/6790c0f20dd02a25da2e)  
+[Two-track railway programming with C#](https://gist.github.com/lemmit/47eb5b24f63ca11da6c5)  
+
+
