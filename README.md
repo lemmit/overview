@@ -29,6 +29,8 @@ My semi-serious blog: [http://csharpsadness.com](http://csharpsadness.com)
 ####Academics Projects:
 [Amino acids, DNA and RNA sequences processing using .NET Bio and Modern UI](https://github.com/lemmit/BioinformaticsKKR) [C#, ModernUI, .Net Bio]  
 [Implementation of Polyphase sorting, pretty nice Asteroid clone, and snake clone](https://github.com/lemmit/DugOff) [C++]  
+####Uncategorized yet:
+[Exploration of CQRS techniques](https://github.com/lemmit/Chatty-cqrs) [C#, Masstransit, RabbitMq, Topshelf]
 
 ## Gists:
 [Serialize to JSON, and deserialize to strongly typed object using only its name](https://gist.github.com/lemmit/f0d8671bb970d1ae1040) [C#, Newtonsoft]  
