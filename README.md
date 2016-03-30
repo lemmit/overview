@@ -15,6 +15,7 @@ CV: [cv.pdf](https://github.com/lemmit/overview/blob/master/cv.pdf)
 [www.codeeval.com solutions(1% top C# devs)](https://github.com/lemmit/CodeEval) [C#]  
 ####Research Projects:
 [SignalR + Akka.Net](https://github.com/lemmit/signalr-meets-akka) [C#, Asp.Net MVC, SignalR, Javascript]
+[Closed loop - tree-like structure explorer](https://github.com/lemmit/ClosedLoop) [C#, Asp.Net MVC, Entity Framework, MSpec]
 ####Plugins:
 [Easier fly4free navigation](https://github.com/lemmit/fly4free-ajax-gallery-chrome-extension) [Javascript, JQuery, Chrome plugin]  
 ####Design Patterns:
