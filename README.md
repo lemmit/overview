@@ -1,8 +1,8 @@
 ## About me
-[](cv.pdf)
 Twitter: [@lemm_it](www.twitter.com/lemm_it)  
 Main blog: [http://somethingabout.it](http://somethingabout.it)  
 My semi-serious blog: [http://csharpsadness.com](http://csharpsadness.com)  
+[CV](https://github.com/lemmit/overview/cv.pdf)
 
 ## Overview of my repositories
 ###Categories
@@ -10,13 +10,13 @@ My semi-serious blog: [http://csharpsadness.com](http://csharpsadness.com)
 [ActorsNet - Bridge between various actor systems and web app](https://github.com/lemmit/ActorsNet) [C#, SignalR, Javascript, MVC, Autofac]  
 [Microservice Description Language](https://github.com/lemmit/MicroserviceMatrixDSL) [C#, ANTRL, T4 templates]  
 [Car history service](https://github.com/lemmit/CarInfoService) [C#, HtmlAgilityPack]  
-####Plugins:
-[Easier fly4free navigation](https://github.com/lemmit/fly4free-ajax-gallery-chrome-extension) [Javascript, JQuery, Chrome plugin]  
 ####Algorithms:
 [www.adventofcode.com solution(48 top world pos.)](https://github.com/lemmit/AdventOfCode15) [C#]  
 [www.codeeval.com solutions(1% top C# devs)](https://github.com/lemmit/CodeEval) [C#]  
 ####Research Projects:
 [SignalR + Akka.Net](https://github.com/lemmit/signalr-meets-akka) [C#, Asp.Net MVC, SignalR, Javascript]
+####Plugins:
+[Easier fly4free navigation](https://github.com/lemmit/fly4free-ajax-gallery-chrome-extension) [Javascript, JQuery, Chrome plugin]  
 ####Design Patterns:
 [Design Patterns using immutable classes](https://github.com/lemmit/DesignPatternsUsingImmutableClasses) [C#]
 ####Fun with C#:
