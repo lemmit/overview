@@ -2,7 +2,7 @@
 Twitter: [@lemm_it](www.twitter.com/lemm_it)  
 Main blog: [http://somethingabout.it](http://somethingabout.it)  
 My semi-serious blog: [http://csharpsadness.com](http://csharpsadness.com)  
-[CV](https://github.com/lemmit/overview/cv.pdf)
+CV: [cv.pdf](https://github.com/lemmit/overview/cv.pdf)
 
 ## Overview of my repositories
 ###Categories
