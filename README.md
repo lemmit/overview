@@ -15,6 +15,7 @@ My semi-serious blog: [http://csharpsadness.com](http://csharpsadness.com)
 ####Research Projects:
 [SignalR + Akka.Net](https://github.com/lemmit/signalr-meets-akka) [C#, Asp.Net MVC, SignalR, Javascript]
 [Closed loop - tree-like structure explorer](https://github.com/lemmit/ClosedLoop) [C#, Asp.Net MVC, Entity Framework, MSpec]
+[Web-app written entirely in SQL](https://github.com/lemmit/FullStackSQL) [Nancy, C#, SQL]
 ####Plugins:
 [Easier fly4free navigation](https://github.com/lemmit/fly4free-ajax-gallery-chrome-extension) [Javascript, JQuery, Chrome plugin]  
 ####Design Patterns:
